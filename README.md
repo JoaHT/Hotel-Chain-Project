@@ -1,5 +1,7 @@
 # PROJECT OVERVIEW: DEVELOP A DATABASE TO ANALYZE AND VISUALIZE HOTEL BOOKING DATA
 
+# [Power BI Visualization](https://app.powerbi.com/Redirect?action=OpenReport&appId=eeaeff4c-a31f-428b-b715-94f43b4b6255&reportObjectId=f182c83b-cd96-4a76-91ab-a67004188886&ctid=d05bc23a-4bdc-426f-b7f9-fede45cfbd56&reportPage=89cab110b6d868201da1&pbi_source=appShareLink&portalSessionId=924aa473-1ee2-4b98-bdaa-3b3f11e3611f)
+
 In this project we are going to answer two questions: "Is the hotel revenue growing by year?" segmentet by hotel type and "Should we increase the parking lot size?". Firstly, we are building a database, then developing the SQL Query, then we connect Power BI to the Database, before we visualize and summarize our findings. 
 
 STEP 1: Create our database in Microsoft SQL Server Management Studio.
